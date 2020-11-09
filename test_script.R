@@ -3,7 +3,7 @@ x
 
 y
 
-z<-y+1
+z<-5+5
 z
 
 #hi can you see it?
@@ -17,7 +17,9 @@ b<-2
 c<-a+b
 c
 
-reprex()
-reprex(venue="so")
-rlang::last_error()
-rlang::last_trace()
+#reprex()
+#reprex(venue="so")
+#rlang::last_error()
+#rlang::last_trace()
+
+
