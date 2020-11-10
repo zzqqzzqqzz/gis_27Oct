@@ -9,6 +9,7 @@ z
 #hi can you see it?
 #hi yes i can see!
 
+<<<<<<< HEAD
 install.packages("reprex")
 library(reprex)
 
@@ -22,3 +23,6 @@ reprex()
 
 #local input
 
+=======
+#remote input for conflict
+>>>>>>> 0d408319c04720efa5a0eb7f1db9fca238d9b464
