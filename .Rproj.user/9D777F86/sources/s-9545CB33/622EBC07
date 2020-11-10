@@ -1,17 +1,16 @@
 {
-    "id": "9B984BEF",
-    "path": "~/OneDrive - University College London/GIS_CASA/wk4/demo/test_script.R",
-    "project_path": "test_script.R",
+    "id": "622EBC07",
+    "path": "~/OneDrive - University College London/GIS_CASA/wk4/demo/test.r",
+    "project_path": "test.r",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1604939569854.0,
+    "created": 1605030225626.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "tempName": "Untitled1",
-        "cursorPosition": "9,18",
+        "cursorPosition": "1,0",
         "scrollLine": "0"
     },
     "folds": "",
