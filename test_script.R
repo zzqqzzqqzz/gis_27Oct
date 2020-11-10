@@ -14,9 +14,11 @@ library(reprex)
 
 
 
-#reprex()
+reprex()
+#跑copy里面的code 不需要复制到rstudio里面再跑了
 #reprex(venue="so")
 #rlang::last_error()
 #rlang::last_trace()
 
+#local input
 
