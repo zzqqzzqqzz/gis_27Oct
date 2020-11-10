@@ -12,10 +12,7 @@ z
 install.packages("reprex")
 library(reprex)
 
-a<-1
-b<-2
-c<-a+b
-c
+
 
 #reprex()
 #reprex(venue="so")
